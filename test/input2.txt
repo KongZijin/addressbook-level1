@@ -14,11 +14,7 @@
   list
 
 ##########################################################
-<<<<<<< HEAD
-# test add person command, setup state for futuer tests
-=======
 # test add person command, setup state for further tests
->>>>>>> 141e6695b4b7bdeade20534e99d3de1d9c81cc6e
 ##########################################################
 
   # should catch invalid args format
